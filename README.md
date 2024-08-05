@@ -35,5 +35,9 @@ This project is a React application written in TypeScript using figma file https
 Refer to the provided [API documentation](https://documenter.getpostman.com/view/30630244/2sA2rCTMKr#433eb613-e405-4239-9e2d-f20485b31b27) for more details on API endpoints used in the project.
 
 ## Screen Recording
+You can view a live demo of the application.
 
-[Link to the screen recording](https://loom.com/example)
+https://github.com/user-attachments/assets/67a7d7e7-9084-4828-a054-8034bd803708
+
+
+
