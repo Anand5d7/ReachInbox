@@ -38,6 +38,13 @@ Refer to the provided [API documentation](https://documenter.getpostman.com/view
 You can view a live demo of the application.
 
 https://github.com/user-attachments/assets/67a7d7e7-9084-4828-a054-8034bd803708
+## Deployment
 
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgments
+- Thanks to the creators of React, Axios, and other libraries used in this project.
+- Thanks to Syoft for providing the API endpoints for user registration and login.
 
 
