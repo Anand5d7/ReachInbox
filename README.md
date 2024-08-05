@@ -1,28 +1,39 @@
-# ReachInbox.AI: React Project
+# ReachInbox Assignment
 
----
+This project is a functional web app for ReachInbox, implementing the required features as per the assignment instructions.
 
-## Overview
+## Features
 
+- Login Page
+- Onebox Screen with Data Fetching
+- Keyboard Shortcuts
+- Custom Text Editor
+- Reply Functionality
+- Light and Dark Mode
+
+## Setup
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Anand5d7/Google-keep-Notes.git
+    cd Reachinbox-Assignment
+    ```
+3. Install dependencies: `npm install`
+4. Run the app: `npm start`
+
+## Instructions
+
+1. Navigate to the login page.
+2. Enter your credentials to log in.
+3. You will be taken to the onebox screen where you can see the list of threads.
+4. Use the "D" key to delete a thread and the "R" key to reply to a thread.
+5. Toggle between light and dark modes using the button provided.
+
+## API
 This project is a React application written in TypeScript using figma file https://www.figma.com/file/uECxqvFhEx9dn4ZuO7wqmu/Reachinbox-Assignment?type=design&node-id=6-19154&mode=design&t=03bJH7Jr6FYF7VSR-0
-and api documentation
-https://documenter.getpostman.com/view/30630244/2sA2rCTMKr#433eb613-e405-4239-9e2d-f20485b31b27
 
----
+Refer to the provided [API documentation](https://documenter.getpostman.com/view/30630244/2sA2rCTMKr#433eb613-e405-4239-9e2d-f20485b31b27) for more details on API endpoints used in the project.
 
-## Installation
+## Screen Recording
 
-To install and run this project on your local machine, follow these steps:
-
-1. **Clone Repository:**
-   ```bash
-   git clone https://github.com/punyakrit/Reachinbox-Assignment.git
-
-   cd into project
-
-   run `npm install`
-
-   run `npm run dev`
-
-   now open in browser 
-   http://localhost:5173/
+[Link to the screen recording](https://loom.com/example)
